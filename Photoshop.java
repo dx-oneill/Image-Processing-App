@@ -30,7 +30,7 @@ public class Photoshop extends Application {
     }
 
     public void start(Stage primaryStage) {
-        primaryStage.setTitle("Mark's CS-256 application");
+        primaryStage.setTitle("CS-256 application");
 
         // Create an ImageView
         imageView = new ImageView();
